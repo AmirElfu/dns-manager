@@ -12,12 +12,12 @@
 # Preview
 
 <p align="center">
-  <img src="https://github.com/AmirElfu/dns-manager/blob/main/assets/Preview1.png" width="400" height="300">
+  <img src="https://github.com/AmirElfu/dns-manager/blob/main/assets/preview1.png" width="400" height="300">
 </p>
 
 ***
 <p align="center">
-  <img src="https://github.com/AmirElfu/dns-manager/blob/main/assets/Preview2.png" width="400" height="300">
+  <img src="https://github.com/AmirElfu/dns-manager/blob/main/assets/preview2.png" width="400" height="300">
 </p>
 
 
